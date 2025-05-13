@@ -1,5 +1,4 @@
-# ⚙️ Projeto de um Sistema Computacional com OS Simples em FPGA baseado em MIPS  
-# ⚙️ FPGA Computing System with Simple OS Based on MIPS Architecture
+# ⚙️ Projeto de um Sistema Computacional com OS Simples em FPGA baseado em MIPS / FPGA Computing System with Simple OS Based on MIPS Architecture
 
 ## 🇧🇷 Descrição (Português)
 
